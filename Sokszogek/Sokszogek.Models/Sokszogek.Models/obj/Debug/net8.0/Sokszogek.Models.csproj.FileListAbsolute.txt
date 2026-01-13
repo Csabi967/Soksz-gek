@@ -1,0 +1,11 @@
+C:\Users\cseho\source\repos\Sokszogek\Sokszogek.Models\Sokszogek.Models\bin\Debug\net8.0\Sokszogek.Models.deps.json
+C:\Users\cseho\source\repos\Sokszogek\Sokszogek.Models\Sokszogek.Models\bin\Debug\net8.0\Sokszogek.Models.dll
+C:\Users\cseho\source\repos\Sokszogek\Sokszogek.Models\Sokszogek.Models\bin\Debug\net8.0\Sokszogek.Models.pdb
+C:\Users\cseho\source\repos\Sokszogek\Sokszogek.Models\Sokszogek.Models\obj\Debug\net8.0\Sokszogek.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cseho\source\repos\Sokszogek\Sokszogek.Models\Sokszogek.Models\obj\Debug\net8.0\Sokszogek.Models.AssemblyInfoInputs.cache
+C:\Users\cseho\source\repos\Sokszogek\Sokszogek.Models\Sokszogek.Models\obj\Debug\net8.0\Sokszogek.Models.AssemblyInfo.cs
+C:\Users\cseho\source\repos\Sokszogek\Sokszogek.Models\Sokszogek.Models\obj\Debug\net8.0\Sokszogek.Models.csproj.CoreCompileInputs.cache
+C:\Users\cseho\source\repos\Sokszogek\Sokszogek.Models\Sokszogek.Models\obj\Debug\net8.0\Sokszogek.Models.dll
+C:\Users\cseho\source\repos\Sokszogek\Sokszogek.Models\Sokszogek.Models\obj\Debug\net8.0\refint\Sokszogek.Models.dll
+C:\Users\cseho\source\repos\Sokszogek\Sokszogek.Models\Sokszogek.Models\obj\Debug\net8.0\Sokszogek.Models.pdb
+C:\Users\cseho\source\repos\Sokszogek\Sokszogek.Models\Sokszogek.Models\obj\Debug\net8.0\ref\Sokszogek.Models.dll

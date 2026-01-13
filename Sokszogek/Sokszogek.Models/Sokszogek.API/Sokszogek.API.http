@@ -1,0 +1,6 @@
+@Sokszogek.API_HostAddress = http://localhost:5192
+
+GET {{Sokszogek.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

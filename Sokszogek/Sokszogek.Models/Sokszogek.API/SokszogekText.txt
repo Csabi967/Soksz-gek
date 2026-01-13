@@ -1,0 +1,13 @@
+﻿@baseUrl = https://localhost:5001
+
+### Negyzet
+GET {{baseUrl}}/api/Negyzet/Kerulet?oldalA=5
+GET {{baseUrl}}/api/Negyzet/Terulet?oldalA=5
+
+### Teglalap
+GET {{baseUrl}}/api/Teglalap/Kerulet?oldalA=3&oldalB=4
+GET {{baseUrl}}/api/Teglalap/Terulet?oldalA=3&oldalB=4
+
+### Haromszog
+GET {{baseUrl}}/api/Haromszog/Kerulet?oldalA=3&oldalB=4&oldalC=5
+GET {{baseUrl}}/api/Haromszog/Terulet?oldalA=3&oldalB=4&oldalC=5
